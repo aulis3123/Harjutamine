@@ -1,1 +1,3 @@
  Githubi kasutavad erinevad inimesed, et jagada üksteisega faile, koode, lahendusi. nt tarkvaraarendajad
+
+Saan kasutada virtuaalmasinal, et laadida failid lihtsasti veebi.
