@@ -1,6 +1,6 @@
  Githubi kasutavad erinevad inimesed, et jagada üksteisega faile, koode, lahendusi. nt tarkvaraarendajad
-
+======== aulis3123-patch-1
 Saan kasutada virtuaalmasinal, et laadida failid lihtsasti veebi.
-
 Github inc asustati aastal 2008 Tom Preston-Werner, Chris Wanstrath, P. J. Hyetti poolt. 
 Github teenus muutus kättesaadavaks 2009 aastal
+======= main
