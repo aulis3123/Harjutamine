@@ -1,0 +1,1 @@
+Tegemist on versioonihalduse harjutamisega GitHubis
